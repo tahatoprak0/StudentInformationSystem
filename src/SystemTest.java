@@ -1,5 +1,3 @@
-package OOP_Part1.StudentInformationSystem;
-
 public class SystemTest {
     public static void main(String[] args) {
         Teacher ahmetGül = new Teacher("Ahmet Gül", "+905327653478", "Math");

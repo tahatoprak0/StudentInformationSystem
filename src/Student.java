@@ -1,5 +1,3 @@
-package OOP_Part1.StudentInformationSystem;
-
 public class Student {
     Course course1;
     Course course2;

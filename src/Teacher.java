@@ -1,5 +1,3 @@
-package OOP_Part1.StudentInformationSystem;
-
 public class Teacher {
     String name;
     String pNumber;
